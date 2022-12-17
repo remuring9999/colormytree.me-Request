@@ -28,5 +28,9 @@ isPrivate = False  # 비공개 여부
 500/ms 속도의 Request 요청이 가능합니다.  
 테스트 진행중 RateLimit 또는 사이트 접속 불가 / 계정정지 등의 현상은 발생하지 않았습니다.
 
+##Creator
+Discord : [! レムリン#9999](http://discord.com/users/863306464915357696)  
+Telegram : [@remuring](https://t.me/remuring)
+
 ## License
 **Code released under the [GNU General Public License version 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).**
