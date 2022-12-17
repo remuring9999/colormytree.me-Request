@@ -25,7 +25,7 @@ isPrivate = False  # 비공개 여부
 오류 또는 RateLimit 발생시 적절한 조취 또는 소스코드 수정을통해 해결하시면 됩니다.
 
 ## 리뷰
-500/ms 속도의 Request 요청이 가능합니다.  
+500ms동안 1번의 Request 요청이 가능합니다.  
 테스트 진행중 RateLimit 또는 사이트 접속 불가 / 계정정지 등의 현상은 발생하지 않았습니다.
 
 ## Creator
