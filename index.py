@@ -26,8 +26,7 @@ async def main(user_id, content, nickname, isPrivate):
 
     while 1:
         try:
-            req = requests.request(
-                "POST", f"https://api.colormytree.me/users/{user_id}/gifts", headers=headers, data=payload)
+            req = requests.post(f"https://api.colormytree.me/users/{user_id}/gifts", headers=headers, data=payload)
             json_ = req.json()
             if req.status_code == 200:
                 print(
